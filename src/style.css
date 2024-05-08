@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#main-container {
+  text-align: center;
+  margin-top: 20%;
+}
+
+#excusefirstpart {
+  font-size: 75px;
+}
+
+#excuse {
+  background-color: white;
+  border-style: none;
+  color: black;
+  font-size: 50px;
+}
